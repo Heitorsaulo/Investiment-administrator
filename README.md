@@ -67,7 +67,3 @@ As and anlternative, check the official documentation[How to create a pull resqu
     </td>
   </tr>
 </table>
-
-## 😄 Seja um dos contribuidores
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
