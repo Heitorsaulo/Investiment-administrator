@@ -61,7 +61,7 @@ As and anlternative, check the official documentation[How to create a pull resqu
       <a href="#" title="...">
         <img src="https://avatars3.githubusercontent.com/u/84213370" width="100px;" alt="Foto de Heitor Saulo no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Heitor Saulo</b>
         </sub>
       </a>
     </td>
